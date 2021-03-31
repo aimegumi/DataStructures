@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Program/DataStructures/circle.h
+
+D:/Program/DataStructures/main.c
+stdio.h
+-
+stddef.h
+-
+circle.h
+D:/Program/DataStructures/circle.h
+

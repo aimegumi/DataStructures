@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/tmp/tmp.kt4Y9h33eU/main.c" "/tmp/tmp.kt4Y9h33eU/cmake-build-debug/CMakeFiles/DataStructures.dir/main.c.o"
+  "D:/Program/DataStructures/circle.c" "D:/Program/DataStructures/cmake-build-debug/CMakeFiles/DataStructures.dir/circle.c.obj"
+  "D:/Program/DataStructures/main.c" "D:/Program/DataStructures/cmake-build-debug/CMakeFiles/DataStructures.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -3,4 +3,4 @@ project(DataStructures C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(DataStructures main.c)
+add_executable(DataStructures main.c linearlist.h circle.h circle.c)
