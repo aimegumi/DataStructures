@@ -10,13 +10,13 @@
 #define PI 3.14
 
 struct Point {
-    Elem x;
-    Elem y;
+    Elem X;
+    Elem Y;
 };
 
 struct Circle {
-    struct Point o;
-    Elem r;
+    struct Point O;
+    Elem R;
 };
 
 //set Point o and R

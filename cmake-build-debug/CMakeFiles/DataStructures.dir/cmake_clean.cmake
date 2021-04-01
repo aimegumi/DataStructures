@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/DataStructures.dir/achieve/SequentialList/SqList_main.c.obj"
   "CMakeFiles/DataStructures.dir/circle.c.obj"
   "CMakeFiles/DataStructures.dir/main.c.obj"
   "DataStructures.exe"

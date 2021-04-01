@@ -12,6 +12,16 @@
           </excludedPaths>
         </serverdata>
       </paths>
+      <paths name="Raspberry (8d6396af-4410-46ce-9273-e9eb68cc0439)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.iKfcdePiU4" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
       <paths name="Raspberry (bd7bafde-db69-4a0a-a67e-b0a36ed7bd6a)">
         <serverdata>
           <mappings>

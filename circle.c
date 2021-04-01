@@ -6,10 +6,10 @@
 
 //calculate circle's area
 double cal_circle_area(struct Circle *C) {
-    return pow(C->r, 2) * PI;
+    return pow(C->R, 2) * PI;
 }
 
 //calculate circumference
 double cal_circumference(struct Circle *C) {
-    return 2 * C->r * PI;
+    return 2 * C->R * PI;
 }

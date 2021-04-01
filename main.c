@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "circle.h"
 
 
@@ -7,14 +8,21 @@ int main() {
     struct Circle circle;
     struct Point point;
 
-    point.x = 0;
-    point.y = 0;
-    circle.o = point;
-    circle.r = 5;
+    point.X = 0;
+    point.Y = 0;
+    circle.O = point;
+    circle.R = 4;
 
     S = cal_circle_area(&circle);
     C = cal_circumference(&circle);
 
     printf("circle s, c: %f, %f", S, C);
+
+    int *ptr = NULL;
+    ptr = (int *) malloc(sizeof(int));
+    if(ptr == NULL) exit(1);
+    free(ptr);
+    ptr = NULL;
+
     return 0;
 }

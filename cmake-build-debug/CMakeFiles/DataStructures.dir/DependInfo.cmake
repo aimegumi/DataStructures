@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "D:/Program/DataStructures/achieve/SequentialList/SqList_main.c" "D:/Program/DataStructures/cmake-build-debug/CMakeFiles/DataStructures.dir/achieve/SequentialList/SqList_main.c.obj"
   "D:/Program/DataStructures/circle.c" "D:/Program/DataStructures/cmake-build-debug/CMakeFiles/DataStructures.dir/circle.c.obj"
   "D:/Program/DataStructures/main.c" "D:/Program/DataStructures/cmake-build-debug/CMakeFiles/DataStructures.dir/main.c.obj"
   )

@@ -5,7 +5,7 @@
 		<Option title="DataStructures"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\achieve\;CMake Files\achieve\SequentialList\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="D:/Program/DataStructures/cmake-build-debug"/>
@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Program/DataStructures/achieve/SequentialList/SqList.h">
+			<Option target="DataStructures"/>
+		</Unit>
+		<Unit filename="D:/Program/DataStructures/achieve/SequentialList/SqList_main.c">
+			<Option target="DataStructures"/>
+		</Unit>
 		<Unit filename="D:/Program/DataStructures/circle.c">
 			<Option target="DataStructures"/>
 		</Unit>
@@ -88,6 +94,12 @@
 		</Unit>
 		<Unit filename="D:/Program/DataStructures/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/Program/DataStructures/achieve/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\achieve\"/>
+		</Unit>
+		<Unit filename="D:/Program/DataStructures/achieve/SequentialList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\achieve\SequentialList\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
