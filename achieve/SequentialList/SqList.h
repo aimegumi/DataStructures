@@ -27,4 +27,9 @@ typedef struct {
     int class;
 }STU;
 
+/* ADT 操作定义 */
+
+// 创建空表
+int creat_sqlit();
+//
 #endif //DATASTRUCTURES_SQLIST_H
